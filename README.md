@@ -1,6 +1,6 @@
 # 🚌 Ordenação com Bubble Sort em C 
 
-Este projeto tem como objetivo ordenar 10 tempos de chegada de ônibus em ordem crescente e ordem decrescente utilizando o algoritmo Bubble Sort.
+Este projeto tem como objetivo ordenar 10 tempos de chegada de ônibus em ordem crescente e decrescente utilizando o algoritmo Bubble Sort.
 
 ## 📌 Descrição
 
