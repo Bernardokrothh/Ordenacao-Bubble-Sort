@@ -16,7 +16,7 @@ Ordem decrescente (do maior para o menor tempo).
 
 Exibe os resultados de forma clara para o usuário.
 
-##⚙️ Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 
 Linguagem: C (pode adaptar caso use outra linguagem).
 
