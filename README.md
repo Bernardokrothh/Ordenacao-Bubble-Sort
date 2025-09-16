@@ -22,6 +22,7 @@ Linguagem: C (pode adaptar caso use outra linguagem).
 
 IDE recomendada: Visual Studio Code ou qualquer compilador de C.
 
+##
 ### 📖 Sobre o Bubble Sort
 
 O Bubble Sort é um algoritmo de ordenação simples que funciona comparando pares de elementos adjacentes e trocando-os de posição quando estão fora de ordem. Esse processo é repetido até que a lista esteja ordenada.
